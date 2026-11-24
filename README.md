@@ -52,7 +52,7 @@ Student-Placement-Prediction-System/
 └── README.md
 ```
 
-*Note: File and folder names may vary depending on the final project structure.*
+
 
 ## How to Run Locally
 
